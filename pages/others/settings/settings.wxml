@@ -1,0 +1,39 @@
+<!--pages/others/settings/settings.wxml-->
+<view class="container">
+	<view class="settings">
+		<view class="out">
+			<image src="https://picture.bytes-space.com/ruyao/settings/settingIcon.png" alt=""/>
+		</view>
+		<view class="head">
+			<view class="close">X</view>
+		</view>
+		<view class="set">
+			<span>设</span><span>置</span>
+		</view>
+		<view class="set-button">
+			<view class="music">
+				<image src="https://picture.bytes-space.com/ruyao/settings/music.jpg" alt=""/>
+				<span>音效</span>
+        <switch></switch>
+				<!-- <view class="switch-container">
+					<input id="switch1" type="checkbox" class="switch" />
+					<label for="switch1" onclick="swtichClick1()"></label>
+				</view> -->
+			</view>
+			<view class="push">
+				<image src="https://picture.bytes-space.com/ruyao/settings/post.png" alt=""/>
+				<span>推送</span>
+        <switch></switch>
+				<!-- <view class="switch-container">
+					<input id="switch2" type="checkbox" class="switch" />
+					<label for="switch2" onclick="swtichClick2()"></label>
+				</view> -->
+			</view>
+		</view>
+		<view class="feedback">
+			<view class="feedback-content">
+				反馈
+			</view>
+		</view>
+	</view>
+</view>

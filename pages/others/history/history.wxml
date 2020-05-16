@@ -1,0 +1,83 @@
+<!--pages/others/history/history.wxml-->
+<view class="container">
+        <view class="main">
+            <view class="title">
+                共288次记录
+            </view>
+            <view class="history">
+                <view class="history-scroll">
+                    <view class="history-item">
+                        <span>2020/04/01</span>
+                        <span>个人赛</span>
+                        <span>用时3'30''</span>
+                        <view class="lookBack">回顾</view>
+                    </view>
+
+                    <view class="history-item">
+                        <span>2020/04/01</span>
+                        <span>个人赛</span>
+                        <span>用时3'30''</span>
+                        <view class="lookBack">回顾</view>
+                    </view>
+
+
+                    <view class="history-item">
+                        <span>2020/04/01</span>
+                        <span>个人赛</span>
+                        <span>用时3'30''</span>
+                        <view class="lookBack">回顾</view>
+                    </view>
+
+                    <view class="history-item">
+                        <span>2020/04/01</span>
+                        <span>个人赛</span>
+                        <span>用时3'30''</span>
+                        <view class="lookBack">回顾</view>
+                    </view>
+
+                    <view class="history-item">
+                        <span>2020/04/01</span>
+                        <span>个人赛</span>
+                        <span>用时3'30''</span>
+                        <view class="lookBack">回顾</view>
+                    </view>
+
+                    <view class="history-item">
+                        <span>2020/04/01</span>
+                        <span>个人赛</span>
+                        <span>用时3'30''</span>
+                        <view class="lookBack">回顾</view>
+                    </view>
+
+                    <view class="history-item">
+                        <span>2020/04/01</span>
+                        <span>个人赛</span>
+                        <span>用时3'30''</span>
+                        <view class="lookBack">回顾</view>
+                    </view>
+
+                    <view class="history-item">
+                        <span>2020/04/01</span>
+                        <span>个人赛</span>
+                        <span>用时3'30''</span>
+                        <view class="lookBack">回顾</view>
+                    </view>
+
+                    <view class="history-item">
+                        <span>2020/04/01</span>
+                        <span>个人赛</span>
+                        <span>用时3'30''</span>
+                        <view class="lookBack">回顾</view>
+                    </view>
+
+                    <view class="history-item">
+                        <span>2020/04/01</span>
+                        <span>个人赛</span>
+                        <span>用时3'30''</span>
+                        <view class="lookBack">回顾</view>
+                    </view>
+                </view>
+
+            </view>
+        </view>
+    </view>

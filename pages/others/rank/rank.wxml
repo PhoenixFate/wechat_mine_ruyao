@@ -1,0 +1,150 @@
+ <view class="container">
+        <view class="rank">
+            <view class="rank-item">
+                <image src="https://picture.bytes-space.com/ruyao/rank/first.png" alt=""/>
+                <view class="user-avatar">
+                    <image src="https://picture.bytes-space.com/ruyao/index/avatar.jpg" alt=""/>
+                </view>
+                <view class="user-info">
+                    <text>冻豆腐\n</text>
+                    <text>来自常州</text>
+                </view>
+                <view class="score">
+                    1'11''
+                </view>
+            </view>
+
+            <view class="rank-item">
+                <image src="https://picture.bytes-space.com/ruyao/rank/second.png" alt=""/>
+                <view class="user-avatar">
+                    <image src="https://picture.bytes-space.com/ruyao/index/avatar.jpg" alt=""/>
+                </view>
+                <view class="user-info">
+                    <text>冻豆腐\n</text>
+                    <text>来自常州</text>
+                </view>
+                <view class="score">
+                    1'11''
+                </view>
+            </view>
+
+            <view class="rank-item">
+                <image src="https://picture.bytes-space.com/ruyao/rank/third.png" alt=""/>
+                <view class="user-avatar">
+                    <image src="https://picture.bytes-space.com/ruyao/index/avatar.jpg" alt=""/>
+                </view>
+                <view class="user-info">
+                    <text>冻豆腐\n</text>
+                    <text>来自常州</text>
+                </view>
+                <view class="score">
+                    1'11''
+                </view>
+            </view>
+
+            <view class="rank-item">
+                <image src="https://picture.bytes-space.com/ruyao/rank/others.png" alt=""/>
+                <view class="user-avatar">
+                    <image src="https://picture.bytes-space.com/ruyao/index/avatar.jpg" alt=""/>
+                </view>
+                <view class="user-info">
+                    <text>冻豆腐\n</text>
+                    <text>来自常州</text>
+                </view>
+                <view class="score">
+                    1'11''
+                </view>
+            </view>
+
+            <view class="rank-item">
+                <image src="https://picture.bytes-space.com/ruyao/rank/others.png" alt=""/>
+                <view class="user-avatar">
+                    <image src="https://picture.bytes-space.com/ruyao/index/avatar.jpg" alt=""/>
+                </view>
+                <view class="user-info">
+                    <text>冻豆腐\n</text>
+                    <text>来自常州</text>
+                </view>
+                <view class="score">
+                    1'11''
+                </view>
+            </view>
+
+
+            <view class="rank-item">
+                <image src="https://picture.bytes-space.com/ruyao/rank/others.png" alt=""/>
+                <view class="user-avatar">
+                    <image src="https://picture.bytes-space.com/ruyao/index/avatar.jpg" alt=""/>
+                </view>
+                <view class="user-info">
+                    <text>冻豆腐\n</text>
+                    <text>来自常州</text>
+                </view>
+                <view class="score">
+                    1'11''
+                </view>
+            </view>
+
+
+            <view class="rank-item">
+                <image src="https://picture.bytes-space.com/ruyao/rank/others.png" alt=""/>
+                <view class="user-avatar">
+                    <image src="https://picture.bytes-space.com/ruyao/index/avatar.jpg" alt=""/>
+                </view>
+                <view class="user-info">
+                    <text>冻豆腐\n</text>
+                    <text>来自常州</text>
+                </view>
+                <view class="score">
+                    1'11''
+                </view>
+            </view>
+
+            <view class="rank-item">
+                <image src="https://picture.bytes-space.com/ruyao/rank/others.png" alt=""/>
+                <view class="user-avatar">
+                    <image src="https://picture.bytes-space.com/ruyao/index/avatar.jpg" alt=""/>
+                </view>
+                <view class="user-info">
+                    <text>冻豆腐\n</text>
+                    <text>来自常州</text>
+                </view>
+                <view class="score">
+                    1'11''
+                </view>
+            </view>
+
+            <view class="rank-item">
+                <image src="https://picture.bytes-space.com/ruyao/rank/others.png" alt=""/>
+                <view class="user-avatar">
+                    <image src="https://picture.bytes-space.com/ruyao/index/avatar.jpg" alt=""/>
+                </view>
+                <view class="user-info">
+                    <text>冻豆腐\n</text>
+                    <text>来自常州</text>
+                </view>
+                <view class="score">
+                    1'11''
+                </view>
+            </view>
+
+            <view class="rank-item">
+                <image src="https://picture.bytes-space.com/ruyao/rank/others.png" alt=""/>
+                <view class="user-avatar">
+                    <image src="https://picture.bytes-space.com/ruyao/index/avatar.jpg" alt=""/>
+                </view>
+                <view class="user-info">
+                    <text>冻豆腐\n</text>
+                    <text>来自常州</text>
+                </view>
+                <view class="score">
+                    1'11''
+                </view>
+            </view>
+        </view>
+
+        <view class="rank-bottom">
+            <span>前100名</span>
+            <span>您在第N名</span>
+        </view>
+    </view>

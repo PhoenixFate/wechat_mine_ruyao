@@ -1,0 +1,134 @@
+<!--pages/others/award/award.wxml-->
+<view class="container">
+	<view class="top">
+		<view class="bar select1">个人赛</view>
+		<view class="bar">挑战赛</view>
+		<view class="bar">多人赛</view>
+		<view class="bar">团队赛</view>
+	</view>
+
+	<view class="main">
+		<view class="award">
+			<view class="title">
+				<image src="https://picture.bytes-space.com/ruyao/award/personal.png" alt="" />
+				<view class="viewider">
+					<view class="viewider-top"></view>
+					<view class="viewider-line"></view>
+					<view class="viewider-bottom"></view>
+				</view>
+				<view class="title-name">
+					个人赛
+				</view>
+			</view>
+			<view class="award-body">
+				<view class="award-item award-item-left ">
+					<image src="https://picture.bytes-space.com/ruyao/award/award1.png" alt="" />
+					<h3>乳瑶纪念品</h3>
+					<p>纯金奖杯，纪念佳品</p>
+					<p>获奖要求：时间3分钟以内</p>
+				</view>
+				<view class="award-item">
+					<image src="https://picture.bytes-space.com/ruyao/award/award1.png" alt="" />
+					<h3>乳瑶纪念品</h3>
+					<p>纯金奖杯，纪念佳品</p>
+					<p>获奖要求：时间3分钟以内</p>
+				</view>
+			</view>
+		</view>
+
+
+		<view class="award">
+			<view class="title">
+				<image src="https://picture.bytes-space.com/ruyao/award/challenge.png" alt="" />
+				<view class="viewider">
+					<view class="viewider-top"></view>
+					<view class="viewider-line"></view>
+					<view class="viewider-bottom"></view>
+				</view>
+				<view class="title-name">
+					挑战赛
+				</view>
+			</view>
+			<view class="award-body">
+				<view class="award-item award-item-left ">
+					<image src="https://picture.bytes-space.com/ruyao/award/award1.png" alt="" />
+					<h3>乳瑶纪念品</h3>
+					<p>纯金奖杯，纪念佳品</p>
+					<p>获奖要求：时间3分钟以内</p>
+				</view>
+				<view class="award-item">
+					<image src="https://picture.bytes-space.com/ruyao/award/award1.png" alt="" />
+					<h3>乳瑶纪念品</h3>
+					<p>纯金奖杯，纪念佳品</p>
+					<p>获奖要求：时间3分钟以内</p>
+				</view>
+			</view>
+		</view>
+
+
+		<view class="award">
+			<view class="title">
+				<image src="https://picture.bytes-space.com/ruyao/award/multiple.png" alt="" />
+				<view class="viewider">
+					<view class="viewider-top"></view>
+					<view class="viewider-line"></view>
+					<view class="viewider-bottom"></view>
+				</view>
+				<view class="title-name">
+					多人赛
+				</view>
+			</view>
+			<view class="award-body">
+				<view class="award-item award-item-left ">
+					<image src="https://picture.bytes-space.com/ruyao/award/award1.png" alt="" />
+					<h3>乳瑶纪念品</h3>
+					<p>纯金奖杯，纪念佳品</p>
+					<p>获奖要求：时间3分钟以内</p>
+				</view>
+				<view class="award-item">
+					<image src="https://picture.bytes-space.com/ruyao/award/award1.png" alt="" />
+					<h3>乳瑶纪念品</h3>
+					<p>纯金奖杯，纪念佳品</p>
+					<p>获奖要求：时间3分钟以内</p>
+				</view>
+				<view class="award-item award-item-left ">
+					<image src="https://picture.bytes-space.com/ruyao/award/award1.png" alt="" />
+					<h3>乳瑶纪念品</h3>
+					<p>纯金奖杯，纪念佳品</p>
+					<p>获奖要求：时间3分钟以内</p>
+				</view>
+			</view>
+		</view>
+
+
+		<view class="award">
+			<view class="title">
+				<image src="https://picture.bytes-space.com/ruyao/award/team.png" alt="" />
+				<view class="viewider">
+					<view class="viewider-top"></view>
+					<view class="viewider-line"></view>
+					<view class="viewider-bottom"></view>
+				</view>
+				<view class="title-name">
+					团队赛
+				</view>
+			</view>
+			<view class="award-body">
+				<view class="award-item award-item-left ">
+					<image src="https://picture.bytes-space.com/ruyao/award/award1.png" alt="" />
+					<h3>乳瑶纪念品</h3>
+					<p>纯金奖杯，纪念佳品</p>
+					<p>获奖要求：时间3分钟以内</p>
+				</view>
+				<view class="award-item">
+					<image src="https://picture.bytes-space.com/ruyao/award/award1.png" alt="" />
+					<h3>乳瑶纪念品</h3>
+					<p>纯金奖杯，纪念佳品</p>
+					<p>获奖要求：时间3分钟以内</p>
+				</view>
+			</view>
+		</view>
+
+
+	</view>
+</view>

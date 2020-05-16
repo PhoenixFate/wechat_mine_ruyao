@@ -1,0 +1,123 @@
+
+.arena {
+  height: 1200rpx;
+  width: 650rpx;
+  background: #5b96fe;
+  margin: 120rpx auto;
+  border-radius: 30rpx;
+  overflow: hidden;
+}
+
+.arena .title {
+  width: 650rpx;
+  height: 180rpx;
+  background: url("https://picture.bytes-space.com/ruyao/arena/titleBackground.png") no-repeat;
+  background-size: 100% 100%;
+  overflow: hidden;
+  border-bottom: 8rpx solid #fff;
+  text-align: center;
+}
+
+.title image {
+  width: 400rpx;
+  height: 140rpx;
+  margin-top: 20rpx;
+}
+
+.match {
+  height: 782rpx;
+  width: 650rpx;
+  overflow: scroll;
+}
+
+.match .one-match {
+  width: 560rpx;
+  height: 160rpx;
+  background: #5987f6;
+  border: 6rpx solid #7fbfff;
+  border-radius: 12rpx;
+  color: #fff;
+  font-size: 38rpx;
+  margin: 40rpx auto;
+  position: relative;
+  text-align: center;
+  line-height: 160rpx;
+}
+
+.one-match .tag {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 160rpx;
+  height: 160rpx;
+}
+
+.match .one-match image {
+  width: 160rpx;
+  height: 160rpx;
+}
+
+.one-match .tag view {
+  position: absolute;
+  transform: rotate(45deg);
+  top: -18rpx;
+  left: 33rpx;
+  width: 150rpx;
+  font-size: 32rpx;
+}
+
+.circle {
+  height: 32rpx;
+  width: 100%;
+  position: relative;
+}
+
+.circle .left,
+.circle .right {
+  width: 32rpx;
+  height: 32rpx;
+  border-radius: 50%;
+
+  position: absolute;
+  background: #98ccfe;
+}
+
+.circle .left {
+  left: -16rpx;
+}
+
+.circle .right {
+  right: -16rpx;
+}
+
+.circle .line {
+  height: 2rpx;
+  border-top: 2rpx #98ccfe dashed;
+  width: 610rpx;
+  position: absolute;
+  left: 20rpx;
+  top:15rpx;
+}
+
+.bottom {
+  height: 200rpx;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.bottom .bottom-btn{
+  width: 228rpx;
+  height: 80rpx;
+  box-sizing: border-box;
+  border: 4rpx solid #7fbfff;
+  background-color: #5987f6;
+  color:#fff;
+  border-radius: 12rpx;
+  margin-top: -28rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  text-align: center;
+  line-height: 74rpx;
+}

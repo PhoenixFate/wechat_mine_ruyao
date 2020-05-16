@@ -20,7 +20,7 @@
 					<button class="personal"><b>个人赛</b></button>
 				</view>
 				<view class="game-box1">
-					<button class="award"><b>奖品介绍</b></button>
+					<button class="award" bindtap='toAward'><b>奖品介绍</b></button>
 				</view>
 			</view>
 			<view class="row1">
@@ -28,7 +28,7 @@
 					<button class="challenge"><b>挑战赛</b></button>
 				</view>
 				<view class="game-box1">
-					<button class="rank"><b>排行榜</b></button>
+					<button class="rank"  bindtap='toRank'><b>排行榜</b></button>
 				</view>
 			</view>
 			<view class="row1">
@@ -36,7 +36,7 @@
 					<button class="multiple"><b>多人赛</b></button>
 				</view>
 				<view class="game-box1">
-					<button class="history"><b>历史记录</b></button>
+					<button class="history"  bindtap='toHistory'><b>历史记录</b></button>
 				</view>
 			</view>
 			<view class="row2">
@@ -45,10 +45,10 @@
 						<button class="team"><b>团队赛</b></button>
 					</view>
 					<view class="game-box1">
-						<button class="arena"><b>擂台赛</b></button>
+						<button class="arena" bindtap='toArena'><b>擂台赛</b></button>
 					</view>
 				</view>
-				<view class="column2"><button class="settings"><b>设置</b></button></view>
+				<view class="column2"><button class="settings"  bindtap='toSettings'><b>设置</b></button></view>
 			</view>
 		</view>
 	</view>

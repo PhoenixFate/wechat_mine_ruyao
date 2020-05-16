@@ -53,6 +53,41 @@ Page({
     wx.navigateTo({
       url: '/pages/others/introduction/introduction'
     })
-  }
+  },
+
+  toSettings:function(){
+    console.log("to settings")
+    wx.navigateTo({
+      url: '/pages/others/settings/settings'
+    })
+  },
+
+  toHistory:function(){
+    console.log("to history")
+    wx.navigateTo({
+      url: '/pages/others/history/history'
+    })
+  },
+
+  toRank:function(){
+    console.log("to rank")
+    wx.navigateTo({
+      url: '/pages/others/rank/rank'
+    })
+  },
+
+  toAward:function(){
+    console.log("to award")
+    wx.navigateTo({
+      url: '/pages/others/award/award'
+    })
+  },
+
+  toArena:function(){
+    console.log("to award")
+    wx.navigateTo({
+      url: '/pages/arena/arenaIndex/arenaIndex'
+    })
+  },
 
 })

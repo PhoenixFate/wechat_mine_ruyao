@@ -1,8 +1,12 @@
 {
   "pages":[
     "pages/personalGame/index/index",
-    "pages/others/introduction/introduction"
-
+    "pages/others/introduction/introduction",
+    "pages/others/settings/settings",
+    "pages/others/history/history",
+    "pages/others/rank/rank",
+    "pages/others/award/award",
+    "pages/arena/arenaIndex/arenaIndex"
   ],
   "window": {
     "backgroundTextStyle": "light",

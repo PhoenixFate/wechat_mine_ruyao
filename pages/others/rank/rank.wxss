@@ -1,0 +1,85 @@
+
+.rank {
+  width: 680rpx;
+  height: auto;
+  margin: 0 auto;
+  padding: 60rpx 0 130rpx;
+}
+
+.rank-item {
+  width: 100%;
+  height: 160rpx;
+  background: -webkit-linear-gradient(top, #e1b23c, #ffe292, #ffcd50);
+  border-radius: 14rpx;
+  box-shadow: 0 3rpx 3rpx #444;
+  margin-bottom: 30rpx;
+  padding: 0 30rpx;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rank-item image {
+  width: 100rpx;
+  height: 140rpx;
+}
+
+.rank-item .user-avatar {
+  width: 110rpx;
+  height: 110rpx;
+  border-radius: 16rpx;
+  border:2rpx solid #f3f683;
+  box-shadow: 0 3rpx 3rpx #444;
+  overflow: hidden;
+}
+
+.rank-item .user-avatar image {
+  width: 110rpx;
+  height: 110rpx;
+}
+
+.rank-item .user-info {
+  width: 200rpx;
+  border: 3px solid #d79d4b;
+  height: 86rpx;
+  border-radius: 10rpx;
+  border-bottom: 3rpx solid #fbe9c1;
+  border-right: 3rpx solid #fee39c;
+
+}
+
+.rank-item .user-info text {
+  font-size: 30rpx;
+  font-weight: bold;
+  margin-left: 10rpx;
+  line-height: 43rpx;
+}
+
+.rank-item .score {
+  width: 100rpx;
+  color:#fff;
+  font-size: 36rpx;
+  font-weight: bold;
+}
+
+
+.rank-bottom {
+  position: fixed;
+  height: 80rpx;
+  width: 100%;
+  box-sizing: border-box;
+  bottom: 0;
+  background: -webkit-linear-gradient(top, #80befe, #5993ff, #3c73ff);
+  border-top-left-radius: 20rpx;
+  border-top-right-radius: 20rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20rpx;
+  font-size: 32rpx;
+  color:#fff;
+}
+
+
+

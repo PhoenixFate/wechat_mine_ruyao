@@ -1,0 +1,58 @@
+<!--pages/arena/arenaIndex/arenaIndex.wxml-->
+  <view class="container">
+        <view class="arena">
+            <view class="title">
+                <image src="https://picture.bytes-space.com/ruyao/arena/name.png" alt=""/>
+            </view>
+            <view class="match">
+                <view class="one-match">
+                    端午节打擂
+                    <view class="tag">
+                        <image src="https://picture.bytes-space.com/ruyao/arena/now.png" alt=""/>
+                        <view >正在进行</view>
+                    </view>
+
+                    <view class="one-match">
+                        端午节打擂
+                        <view class="tag">
+                            <image src="https://picture.bytes-space.com/ruyao/arena/now.png" alt=""/>
+                            <view>正在进行</view>
+                        </view>
+                    </view>
+
+                    <view class="one-match">
+                        端午节打擂
+                        <view class="tag">
+                            <image src="https://picture.bytes-space.com/ruyao/arena/next.png" alt=""/>
+                            <view>即将开始</view>
+                        </view>
+                    </view>
+
+                    <view class="one-match">
+                        端午节打擂
+                        <view class="tag">
+                            <image src="https://picture.bytes-space.com/ruyao/arena/next.png" alt=""/>
+                            <view>即将开始</view>
+                        </view>
+                    </view>
+                </view>
+            </view>
+
+
+            <view class="circle">
+                <view class="left"></view>
+                <view class="line"></view>
+                <view class="right"></view>
+            </view>
+
+            <view class="bottom">
+                <view class="bottom-btn">
+                    历史赛事
+                </view>
+                <view class="bottom-btn">
+                    擂主风云榜
+                </view>
+            </view>
+
+        </view>
+    </view>

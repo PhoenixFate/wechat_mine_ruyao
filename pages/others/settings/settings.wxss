@@ -1,0 +1,112 @@
+/* pages/others/settings/settings.wxss */
+
+.settings {
+  width: 600rpx;
+  height: 800rpx;
+  margin:40% auto 0;
+  background-color: #fff;
+  position: relative;
+  border-radius: 30rpx;
+}
+
+.out {
+  position: absolute;
+  width: 180rpx;
+  height: 180rpx;
+  border-radius: 50%;
+  background-color: #4682c0;
+  border:4rpx solid #fff;
+  left:50%;
+  margin-left: -90rpx;
+  top:-130rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.out image {
+  width: 140rpx;
+  height: 140rpx;
+}
+
+.head {
+  height: 140rpx;
+}
+
+.head .close {
+  width: 70rpx;
+  height: 70rpx;
+  float: right;
+  font-size: 36rpx;
+  text-align: right;
+  padding: 10rpx 20rpx;
+  color: #e76c1e;
+  line-height: 40rpx;
+}
+
+.set {
+  height: 120rpx;
+  background-color: #404b9d;
+  font-size: 52rpx;
+  line-height: 120rpx;
+  text-align: center;
+  color:#fff;
+  font-weight: bold;
+}
+
+.set span:nth-child(1){
+  margin-right: 40rpx;
+}
+
+.set-button {
+  height: 400rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.set-button image {
+  width: 68rpx;
+  height: 68rpx;
+}
+
+.set-button .music,
+.set-button .push{
+  width: 400rpx;
+  height: 100rpx;
+  display: flex;
+  font-size: 38rpx;
+  color: #404b9d;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+.set-button span {
+  margin: 0 30rpx;
+}
+
+.feedback {
+  height: 140rpx;
+  background-color: #404b9d;
+  border-bottom-left-radius: 30rpx;
+  border-bottom-right-radius: 30rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.feedback-content {
+  height: 80rpx;
+  width: 250rpx;
+  background-color: #fff;
+  color:#404b9d;
+  font-size: 42rpx;
+  line-height: 80rpx;
+  text-align: center;
+  border-radius: 60rpx;
+  font-weight: bold;
+}
+
+
