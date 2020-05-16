@@ -1,0 +1,55 @@
+<!--index.wxml-->
+<!-- <button wx:if="{{!hasUserInfo}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo">  登录 </button> -->
+
+<view class="container">
+	<view class="index-content">
+		<view class="top">
+			<button class="login" wx:if="{{!hasUserInfo}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 登录 </button>
+			<image wx:if="{{hasUserInfo}}" src="{{userInfo.avatarUrl}}" />
+			<view class="user-properties">
+				<text>Docaman\n</text>
+				<text>来自火星</text>
+			</view>
+		</view>
+		<view class="banner">
+			<button class="introduction"  bindtap='toIntroduction'><b>游戏说明及思想</b></button>
+		</view>
+		<view class="main">
+			<view class="row1">
+				<view class="game-box1">
+					<button class="personal"><b>个人赛</b></button>
+				</view>
+				<view class="game-box1">
+					<button class="award"><b>奖品介绍</b></button>
+				</view>
+			</view>
+			<view class="row1">
+				<view class="game-box1">
+					<button class="challenge"><b>挑战赛</b></button>
+				</view>
+				<view class="game-box1">
+					<button class="rank"><b>排行榜</b></button>
+				</view>
+			</view>
+			<view class="row1">
+				<view class="game-box1">
+					<button class="multiple"><b>多人赛</b></button>
+				</view>
+				<view class="game-box1">
+					<button class="history"><b>历史记录</b></button>
+				</view>
+			</view>
+			<view class="row2">
+				<view class="column1">
+					<view class="game-box1">
+						<button class="team"><b>团队赛</b></button>
+					</view>
+					<view class="game-box1">
+						<button class="arena"><b>擂台赛</b></button>
+					</view>
+				</view>
+				<view class="column2"><button class="settings"><b>设置</b></button></view>
+			</view>
+		</view>
+	</view>
+</view>

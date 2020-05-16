@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/personalGame/index/index",
+    "pages/others/introduction/introduction"
+
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#4b7eff",
+    "navigationBarTitleText": "乳瑶人防宝",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#4b7eff"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

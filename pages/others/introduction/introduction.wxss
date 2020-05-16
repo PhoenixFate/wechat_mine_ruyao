@@ -1,0 +1,33 @@
+
+.box {
+  width: 80%;
+  color:#000;
+  background-color: #fff;
+  padding: 80rpx 40rpx 40rpx;
+  box-sizing: border-box;
+  text-indent:2em;
+  border-radius: 20rpx;
+  border:8rpx solid #6cf;
+  position: relative;
+  box-shadow: 0 4rpx 4rpx #fff;
+  line-height: 44rpx;
+  text-align: left;
+}
+
+.box1 {
+  margin: 90rpx auto 0;
+}
+
+.box1 image,
+.box2 image{
+  position: absolute;
+  width: 300rpx;
+  height: 80rpx;
+  left: 50%;
+  top:-20rpx;
+  margin-left: -150rpx;
+}
+
+.box2 {
+  margin: 60rpx auto 0;
+}

@@ -1,0 +1,44 @@
+/**app.wxss**/
+
+page {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  background: url("https://picture.bytes-space.com/ruyao/index/indexBackground.png") no-repeat fixed;
+  background-size:100% 100%;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  position: relative;
+}
+
+.container2 {
+  background: url("https://picture.bytes-space.com/ruyao/around/aroundBackground.jpg") no-repeat fixed;
+  background-size:100% 100%;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.message{
+  height: 400rem;
+  width: 400rem;
+  background-color: rgba(0,0,0,0.6);
+  position: fixed;
+  top:50%;
+  margin-top: -200rem;
+  left: 50%;
+  margin-left: -200rem;
+  border-radius: 40rem;
+  font-size: 40rem;
+  font-weight: 700;
+  line-height: 400rem;
+  text-align: center;
+  color: #FFF;
+  display: none;
+}
+
